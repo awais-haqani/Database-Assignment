@@ -1,0 +1,3 @@
+UPDATE Content
+   SET image =readfile('C:\SQLite\images\Earth_moon_size_comparison.jpg')
+ WHERE question_id = 1;

@@ -1,0 +1,1 @@
+Create Table Content( question TEXT, answer_a TEXT, answer_b TEXT, answer_c TEXT, answer_d TEXT, correct_answer TEXT, image BLOB, username TEXT)
